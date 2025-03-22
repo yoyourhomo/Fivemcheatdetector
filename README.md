@@ -71,15 +71,15 @@ Run the `install.bat` script to:
 
 Run the application directly with Python:
 ```
-python fivem_cheat_detector.py
+python fivem_cheat_detector2.1.py
 ```
 
 ## How to Use
-
-1. Launch the application
-2. Use the tabs to navigate between different detection methods
-3. Run checks individually or use the "Run All Checks" button in the Report tab
-4. Review the results and save the report if suspicious activity is detected
+1. Make sure you have python installed. (There is also a .exe version.)
+2. Launch the application
+3. Use the tabs to navigate between different detection methods
+4. Run checks individually or use the "Run All Checks" button in the Report tab
+5. Review the results and save the report if suspicious activity is detected
 
 ### Tabs and Functions
 
