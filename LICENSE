@@ -1,21 +1,141 @@
-MIT License
+                          MIT LICENSE AGREEMENT
+                         
+                         Version 1.0, March 2025
 
-Copyright (c) 2025 FiveM Cheat Detector
+                    FiveM CHEAT DETECTOR SOFTWARE LICENSE
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (c) 2025 FiveM Cheat Detector and its Contributors ("Licensor")
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+                              PREAMBLE
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The FiveM Cheat Detector software ("the Software") represents a significant 
+advancement in the detection and prevention of unauthorized modifications and 
+cheating software in the FiveM gaming environment. This Software embodies 
+substantial intellectual effort and technical innovation in the fields of 
+forensic analysis, system monitoring, and cheat detection.
+
+This license is designed to protect the rights of both the creators of the 
+Software and those who wish to use, modify, or distribute it. The MIT License 
+has been chosen as the foundation for this agreement due to its permissive 
+nature and widespread acceptance in the open-source community, while this 
+extended version provides additional clarity and context for users.
+
+The Software includes advanced capabilities for detecting various forms of 
+cheating software, including but not limited to: process monitoring, registry 
+analysis, file scanning, network traffic analysis, and forensic investigation 
+of system artifacts. These capabilities are designed to help server 
+administrators maintain fair play environments and identify potential violations 
+of gaming platform terms of service.
+
+                           LICENSE TERMS
+
+Permission is hereby granted, free of charge, to any person or entity 
+("the Licensee") obtaining a copy of this Software and associated documentation 
+files (collectively, "the Software"), to deal in the Software without 
+restriction, including without limitation the rights to use, copy, modify, merge, 
+publish, distribute, sublicense, and/or sell copies of the Software, and to 
+permit persons to whom the Software is furnished to do so, subject to the 
+following conditions:
+
+1. ATTRIBUTION REQUIREMENT:
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software. This ensures proper attribution
+   to the original creators while allowing maximum freedom for derivative works.
+
+2. WARRANTY DISCLAIMER:
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+                        ADDITIONAL CLARIFICATIONS
+
+While not legally binding beyond the terms above, the following clarifications 
+are provided to assist users in understanding the intent and scope of this license:
+
+1. ETHICAL USE:
+   The Software is intended for legitimate security and administration purposes.
+   While the license does not legally restrict usage, the Licensor strongly 
+   encourages ethical application of the Software for maintaining fair play 
+   environments and discourages its use for circumventing legitimate security 
+   measures or enabling cheating.
+
+2. CONTRIBUTIONS:
+   Contributions to the Software are welcome and encouraged. Contributors agree 
+   that their contributions may be incorporated into the Software under the terms 
+   of this license. The Licensor may establish additional guidelines for 
+   contributions in separate documentation.
+
+3. DERIVATIVE WORKS:
+   Derivative works based on the Software may be distributed under different 
+   terms, provided that the original portions remain subject to this license. 
+   This enables integration with proprietary software while respecting the 
+   original open-source nature of the Software.
+
+4. COMPATIBILITY:
+   This license is compatible with most open-source licenses, allowing the 
+   Software to be combined with other open-source components to create larger 
+   works. Users are responsible for ensuring compliance with all applicable 
+   licenses in such combinations.
+
+5. UPDATES AND MODIFICATIONS:
+   The Software may include functionality for updating itself or checking for 
+   updates. This functionality is provided for convenience and security, and 
+   may be modified or disabled by the Licensee as needed.
+
+                       TECHNICAL IMPLEMENTATION
+
+The FiveM Cheat Detector implements several advanced technical approaches to 
+identify potential cheating software:
+
+1. PROCESS ANALYSIS:
+   The Software examines running processes for signatures matching known cheat 
+   software, suspicious naming patterns, unusual command line parameters, and 
+   abnormal behavior patterns.
+
+2. REGISTRY FORENSICS:
+   The Software analyzes the Windows Registry for evidence of cheat software 
+   installation, configuration, or execution, including historical entries that 
+   may indicate previous use of cheating tools.
+
+3. FILE SYSTEM SCANNING:
+   The Software scans for files matching known cheat signatures, examines file 
+   metadata, and identifies suspicious file patterns or locations that may 
+   indicate the presence of unauthorized modifications.
+
+4. NETWORK ANALYSIS:
+   The Software examines network connections, DNS configurations, and firewall 
+   settings that may indicate communication with cheat servers or attempts to 
+   bypass game security measures.
+
+5. FORENSIC CAPABILITIES:
+   The Software includes Process Hacker-like features to detect historical 
+   evidence of cheat usage, even after uninstallation, through analysis of 
+   system journals, prefetch files, and other artifacts.
+
+                        LEGAL CONSIDERATIONS
+
+The use of this Software may be subject to local laws and regulations regarding 
+privacy, data protection, and computer access. Users are responsible for ensuring 
+their use of the Software complies with all applicable laws and regulations in 
+their jurisdiction.
+
+The Licensor makes no representations regarding the legality of using the Software 
+in any particular context or jurisdiction. Users should consult legal counsel if 
+they have questions about the legality of using the Software for specific purposes.
+
+                           CONCLUSION
+
+This license grants extensive freedom to use, modify, and distribute the Software 
+while providing context for its intended use and technical capabilities. The 
+Licensor hopes that the Software will contribute to maintaining fair play in 
+gaming environments and advancing the state of the art in cheat detection and 
+system security analysis.
+
+For questions regarding this license or the Software, please contact the Licensor 
+through the official GitHub repository or other designated channels.
+
+End of License
