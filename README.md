@@ -1,4 +1,4 @@
-# FiveM Cheat Detector v3.0
+# FiveM Cheat Detector
 
 A specialized tool for detecting potential cheating software in FiveM game installations.
 
